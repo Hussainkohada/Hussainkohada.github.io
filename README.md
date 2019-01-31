@@ -1,2 +1,1 @@
-# rahulraopune.github.io :fire:
-Personal Portfolio, Tech Stack, Projects etc. :sunglasses:
+# Hussainkohada.github.io :fire:
